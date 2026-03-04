@@ -33,6 +33,8 @@ Unlike conventional "burn-in" tests that merely generate heat, this tool perform
 # Clone the repository
 git clone https://github.com/officialorchid/CPUiandHMscript.git
 cd CPUiandHMscript
+uv venv
+source .venv/bin/activate
 
 
 

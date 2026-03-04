@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[⬆ Back to Top](#-cpu-integrity--health-monitor)**
 
-Made with ❤️ and 🔥 by [Your Name](https://github.com/officialorchid)
+Made with ❤️ and 🔥 by [officialorchid](https://github.com/officialorchid)
 
 </div>
 ```

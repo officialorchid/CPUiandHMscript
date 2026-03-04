@@ -1,4 +1,3 @@
-```markdown
 # 🔥 CPU Integrity & Health Monitor
 
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
